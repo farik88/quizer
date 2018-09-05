@@ -1,0 +1,8 @@
+.image-wrapper {
+    max-width: 300px;
+    max-height: 500px;
+}
+
+#quize-logo label {
+    display: block;
+}
